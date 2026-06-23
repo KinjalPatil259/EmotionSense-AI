@@ -1,9 +1,0 @@
-{
-    "python.defaultInterpreterPath": "backend/venv/Scripts/python.exe",
-    "python.analysis.extraPaths": [
-        "C:/Users/Shree Khodiyar/AppData/Roaming/Python/Python313/site-packages",
-        "backend/venv/Lib/site-packages"
-    ],
-    "python.analysis.typeCheckingMode": "basic",
-    "python.languageServer": "Pylance"
-}
